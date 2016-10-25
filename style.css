@@ -1,0 +1,15 @@
+body{
+  margin: 0 auto;
+  max-width: 2em;
+  font-family: "playball", sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  color:#00d8ff
+}
+
+h2{margin-top: 1em
+padding-top: 1em;
+}
+h1, h2{
+  color:#ff0000
+}
